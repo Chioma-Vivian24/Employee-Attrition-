@@ -60,7 +60,7 @@ Some of the key visualizations include:
 -** Performance rating by department: A bar chart showing the performance rate of each department.
 -**Job satisfaction by Gender**: A doughnut chart showing total job satisfaction by each gender.
 
-## Recomendations
+## Recomendation
 Employer should increase the salary of Employees in sales department.
 
 ## Conclusion
